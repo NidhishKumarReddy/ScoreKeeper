@@ -1,0 +1,33 @@
+
+div {
+    margin-top: 1%;
+}
+
+.container{
+    margin-top: 2%;
+    width: 50%;
+}
+.card-img-top{
+    height: 20rem;
+}
+
+.lab{
+    font-weight: 700;
+}
+
+span{
+    font-size: x-large;
+    font-weight: 700;
+}
+
+#reset {
+    background-color: #ef476f;
+}
+
+#b1 {
+    background-color: #118ab2;
+}
+
+#b2{
+    background-color: #06d6a0;
+}
